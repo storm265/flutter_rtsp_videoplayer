@@ -6,6 +6,8 @@ Modified fork from: com.xcellapps.flutter.rtsp_ffmpeg
 
 Note: project not working in release mode. Works fine in profile mode.
 
+video delay is about 130-170ms
+
 ## Getting Started
 
 #### 1) Add to your project:
