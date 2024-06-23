@@ -18,7 +18,7 @@ dependencies:
 
   rtsp_ffmpeg:
     git: 
-      url: .git
+      url: https://github.com/storm265/flutter_rtsp_videoplayer.git
       ref: main
 	 
 ```     
